@@ -1,8 +1,8 @@
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
-    <div className="App">
+    <div className="container pt-4">
       <h1>Github search repositories</h1>
     </div>
   );
