@@ -13,7 +13,6 @@ const Home = () => {
       )
     })
 
-  console.log(cards)
   return (
     <>
       <Search />
